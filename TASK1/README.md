@@ -48,6 +48,7 @@ Seaborn
 Scikit-learn
 Google Colab
 
-👩‍💻 Author
+Author:
 Ketki Gurav
-This project is part of the Data Science Internship at Oasis Infobyte.
+
+--This project is part of the Data Science Internship at Oasis Infobyte.
